@@ -1,0 +1,8 @@
+README.md
+setup.py
+TempChip/__init__.py
+TempChip.egg-info/PKG-INFO
+TempChip.egg-info/SOURCES.txt
+TempChip.egg-info/dependency_links.txt
+TempChip.egg-info/not-zip-safe
+TempChip.egg-info/top_level.txt
